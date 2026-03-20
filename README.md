@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/48/fd/9a/48fd9a56792b4186f9dcb61015c27ae1.jpg" 
+  <img src="./orchid.jpg" 
        alt="Northern Night Coding" width="550" style="border-radius: 8px;">
 </p>
 
