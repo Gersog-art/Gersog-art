@@ -4,17 +4,17 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Gersog-art;Web+Security+%7C+PWN+%7C+Arch+Linux;Orchid+Project+Developer;Customization+%26+Lofi+Vibes" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7DD3C0&center=true&vCenter=true&width=600&lines=nyte;Web+Security+%7C+PWN+%7C+Arch+Linux;Blue+Team+Tools+Developer;Customization+%26+Lofi+Vibes" alt="Typing intro">
 </p>
 
 <p align="center">
-  <img src="./orchid.jpg" 
-       alt="Orchid Art" width="550" style="border-radius: 8px;">
+  <img src="https://i.pinimg.com/1200x/48/fd/9a/48fd9a56792b4186f9dcb61015c27ae1.jpg" 
+       alt="Northern Night Coding" width="550" style="border-radius: 8px;">
 </p>
 
 ---
 
-### 🖤 О себе
+### 🌨️ О себе
 
 > *«В тишине северной ночи рождаются лучшие эксплойты. Кастомизация — это искусство, а PWN — философия. Lofi биты и холодный терминал — моя стихия.»*
 
@@ -22,36 +22,40 @@
 - 🐍 **Python & PHP** — пишу инструменты, которые работают
 - 🧠 **PWN & C** — понимаю, как всё устроено на низком уровне
 - 🐧 **Arch Linux** — минимализм, контроль и полная кастомизация
-- 🗡️ **Security Tools** — создаю инструменты для защиты и атаки
+- 🛡️ **Blue Team** — защищаю, потому что знаю, как атакуют
 - 🎧 **Lofi Vibe** — в спокойствии рождаются лучшие решения
 
+---
+
 <img 
-  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
-  alt="Black Gold Divider"
+  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
+  alt="Divider"
   width="3000"
-  height="10"
-  align="left"
-  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
+  height="8"
+  align="left">
 
-### 🗡️ Проекты (Orchid Series)
+> 
 
-*Инструменты для веб-пентеста в чёрно-золотом стиле:*
+### 📁 Проекты (Orchid Series)
+
+*Инструменты для Blue Team и веб-пентеста:*
 
 | Проект | Описание | Статус |
 |--------|----------|--------|
-| 🗡️ **Orchid v1** | Первый инструмент для веб-пентеста | 🔨 В разработке |
-| 🗡️ **Orchid v2** | Улучшенная версия с новым функционалом | 🔨 В разработке |
+| 🌸 **Orchid v1** | Первый инструмент для веб-пентеста | 🔨 В разработке |
+| 🌸 **Orchid v2** | Улучшенная версия с новым функционалом | 🔨 В разработке |
 | 🚀 **Скоро...** | Новые инструменты для безопасности | ⏳ В планах |
 
 > *Больше деталей о проектах появится по мере разработки...*
 
 <img 
-  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
-  alt="Black Gold Divider"
+  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
+  alt="Divider"
   width="3000"
-  height="10"
-  align="left"
-  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
+  height="8"
+  align="left">
+
+> 
 
 ### 💻 Tech Stack
 
@@ -60,41 +64,47 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 
 <img 
-  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
-  alt="Black Gold Divider"
+  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
+  alt="Divider"
   width="3000"
-  height="10"
-  align="left"
-  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
+  height="8"
+  align="left">
+
+> 
 
 ### 🛡️ Security Focus
 
-![Web Security](https://img.shields.io/badge/Web_Security-D4AF37?style=for-the-badge&logo=security&logoColor=black)
-![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=bug&logoColor=D4AF37)
-![PWN](https://img.shields.io/badge/PWN-1A1A1A?style=for-the-badge&logo=terminal&logoColor=D4AF37)
+![Web Security](https://img.shields.io/badge/Web_Security-00E0FF?style=for-the-badge&logo=security&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-FF6B6B?style=for-the-badge&logo=bug&logoColor=white)
+![PWN](https://img.shields.io/badge/PWN-9D4EDD?style=for-the-badge&logo=terminal&logoColor=white)
+![Blue Team](https://img.shields.io/badge/Blue_Team-4ECDC4?style=for-the-badge&logo=shield&logoColor=white)
 
 <img 
-  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
-  alt="Black Gold Divider"
+  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
+  alt="Divider"
   width="3000"
-  height="10"
-  align="left"
-  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
+  height="8"
+  align="left">
 
-### 🖤 Контакты
+> 
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Gersog-art)
+### 🌨️ Контакты
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_________ghost___________)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Gersog-art)
 
 <img 
-  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
-  alt="Black Gold Divider"
+  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
+  alt="Divider"
   width="3000"
-  height="10"
-  align="left"
-  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
+  height="8"
+  align="left">
+
+> 
 
 <p align="center">
   <sub>
@@ -102,11 +112,11 @@
   </sub>
   <br>
   <sub>
-    Made with 🖤 & 🏵️ by <strong>Gersog-art</strong>
+    Made with ❄️ by <strong>nyte</strong>
   </sub>
 </p>
 
 <!--
-    Black & Gold Orchid Edition.
-    Code flows like golden petals in the dark.
+    Snow falls silently. Code runs endlessly.
+    In the terminal night, we find our path.
 -->
