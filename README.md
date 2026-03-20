@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&background=000000&center=true&vCenter=true&width=600&lines=Gersog-art;Web+Security+%7C+PWN+%7C+Arch+Linux;Orchid+Project+Developer;Customization+%26+Lofi+Vibes" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=In+the+snowy+terminal+night;PHP+%7C+Web+Security+%7C+Linux;One+more+request...+one+more+exploit" alt="Typing intro">
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 ---
 
-### 🖤 О себе
+### ❄️ О себе
 
 > *«В тишине северной ночи рождаются лучшие эксплойты. Кастомизация — это искусство, а PWN — философия. Lofi биты и холодный терминал — моя стихия.»*
 
-- 🖤 **Web Security** — ищу уязвимости там, где другие видят только поверхность
-- 🖤 **Python & PHP** — пишу инструменты, которые работают
-- 🖤 **PWN & C** — понимаю, как всё устроено на низком уровне
-- 🖤 **Arch Linux** — минимализм, контроль и полная кастомизация
-- 🖤 **Security Tools** — создаю инструменты для защиты и атаки
-- 🖤 **Lofi Vibe** — в спокойствии рождаются лучшие решения
+- **Web Security** — ищу уязвимости там, где другие видят только поверхность
+- **Python & PHP** — пишу инструменты, которые работают
+- **PWN & C** — понимаю, как всё устроено на низком уровне
+- **Arch Linux** — минимализм, контроль и полная кастомизация
+- **Security Tools** — создаю инструменты для защиты и атаки
+- **Lofi Vibe** — в спокойствии рождаются лучшие решения
 
 <img 
   src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
@@ -33,7 +33,7 @@
   align="left"
   style="filter: grayscale(1) brightness(0.2) sepia(1) hue-rotate(40deg) saturate(5);">
 
-### 🗡️ Проекты (Orchid Series)
+### 🗡️ 🌐 Мои проекты (Orchid Series)
 
 *Проекты:*
 
