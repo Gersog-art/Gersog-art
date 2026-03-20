@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Gersog-art;Web+Security+%7C+PWN+%7C+Arch+Linux;Orchid+Project+Developer;Customization+%26+Lofi+Vibes" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Gersog-art;Web+Security+%7C+PWN+%7C+Arch+Linux;Orchid+Project+Developer;Customization+%26+Lofi+Vibes" alt="Typing intro">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 - 🔍 **Web Security** — ищу уязвимости там, где другие видят только поверхность
 - 🐍 **Python & PHP** — пишу инструменты, которые работают
-- 🧠 **PWN & C** — понимаю, как всё устроено на низком уровне
+- 🧠 **PWN & C** — понимаю, как всё устроено, интересует всё, что можно сломать и починить
 - 🐧 **Arch Linux** — минимализм, контроль и полная кастомизация
 - 🗡️ **Security Tools** — создаю инструменты для защиты и атаки
-- 🎧 **Lofi Vibe** — в спокойствии рождаются лучшие решения
+- 🎧 **Lofi Vibe** — в спокойствии рождаются лучшие решения, 
 
 <img 
   src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
