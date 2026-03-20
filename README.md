@@ -25,16 +25,13 @@
 - 🗡️ **Security Tools** — создаю инструменты для защиты и атаки
 - 🎧 **Lofi Vibe** — в спокойствии рождаются лучшие решения
 
----
-
 <img 
-  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
-  alt="Divider"
+  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
+  alt="Black Gold Divider"
   width="3000"
-  height="8"
-  align="left">
-
-> 
+  height="10"
+  align="left"
+  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
 
 ### 🗡️ Проекты (Orchid Series)
 
@@ -49,13 +46,12 @@
 > *Больше деталей о проектах появится по мере разработки...*
 
 <img 
-  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
-  alt="Divider"
+  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
+  alt="Black Gold Divider"
   width="3000"
-  height="8"
-  align="left">
-
-> 
+  height="10"
+  align="left"
+  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
 
 ### 💻 Tech Stack
 
@@ -64,17 +60,14 @@
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 
 <img 
-  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
-  alt="Divider"
+  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
+  alt="Black Gold Divider"
   width="3000"
-  height="8"
-  align="left">
-
-> 
+  height="10"
+  align="left"
+  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
 
 ### 🛡️ Security Focus
 
@@ -83,28 +76,25 @@
 ![PWN](https://img.shields.io/badge/PWN-1A1A1A?style=for-the-badge&logo=terminal&logoColor=D4AF37)
 
 <img 
-  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
-  alt="Divider"
+  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
+  alt="Black Gold Divider"
   width="3000"
-  height="8"
-  align="left">
-
-> 
+  height="10"
+  align="left"
+  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
 
 ### 🖤 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/Gersog-art)
 
 <img 
-  src="https://i.pinimg.com/originals/e3/33/24/e33324f1f3aa3d172aac8e5ac4cdd540.gif"
-  alt="Divider"
+  src="https://i.pinimg.com/originals/03/73/63/037363f7d26347a2c46130863ac77216.gif"
+  alt="Black Gold Divider"
   width="3000"
-  height="8"
-  align="left">
-
-> 
+  height="10"
+  align="left"
+  style="filter: hue-rotate(200deg) brightness(0.8) sepia(1) saturate(3);">
 
 <p align="center">
   <sub>
@@ -117,7 +107,6 @@
 </p>
 
 <!--
-    Snow falls silently. Code runs endlessly.
-    In the terminal night, we find our path.
-    Black and Gold Orchid Edition.
+    Black & Gold Orchid Edition.
+    Code flows like golden petals in the dark.
 -->
