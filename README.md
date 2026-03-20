@@ -97,7 +97,7 @@
   </sub>
   <br>
   <sub>
-    Made with <span style="color: #D4AF37;">🖤</span> & <span style="color: #D4AF37;">🏵️</span> by <strong style="color: #D4AF37;">Gersog-art</strong>
+    Made with <span style="color: #D4AF37;">❄️</span>  by <strong style="color: #D4AF37;">Gersog-art</strong>
   </sub>
 </p>
 
