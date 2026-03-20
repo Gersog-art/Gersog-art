@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./черно-золотой дизайн сайта на черном фоне выделенно будто кистью орхидея как в аниме и с нее стикают золотые капли орхидея -3.jpg" 
+  <img src="./orchid.jpg" 
        alt="Orchid Art" width="550" style="border-radius: 8px;">
 </p>
 
