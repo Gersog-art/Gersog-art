@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00E0FF&center=true&vCenter=true&width=650&lines=In+the+snowy+terminal+night;PHP+%7C+Web+Security+%7C+Linux;One+more+request...+one+more+exploit" alt="Typing intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Gersog-art;Web+Security+%7C+PWN+%7C+Arch+Linux;Orchid+Project+Developer;Customization+%26+Lofi+Vibes" alt="Typing intro">
 </p>
 
 <p align="center">
