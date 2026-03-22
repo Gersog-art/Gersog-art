@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./orchid.jpg" 
+  <img src="./banner.jpg" 
        alt="Orchid Art" width="550" style="border-radius: 8px; border: 2px solid #D4AF37;">
 </p>
 
